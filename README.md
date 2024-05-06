@@ -4,7 +4,6 @@
 
 K-MEANS CLUSTERING :
 It is a popular unsupervised machine learning algorithm used for partitioning data into clusters. The goal of K-means is to group similar data points together and discover underlying patterns in the data. Here's how it works:
-
 Initialization: Start by choosing K initial centroids randomly from the data points. These centroids represent the centers of the clusters.
 Assignment: Assign each data point to the nearest centroid, forming K clusters.
 Update centroids: Recalculate the centroids of the clusters by taking the mean of all data points assigned to each cluster.
